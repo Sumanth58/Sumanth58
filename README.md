@@ -1,7 +1,6 @@
 ## Hi there, I'm Sumanth 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning REACT
 - 📫 How to reach me: ch.sravansumanth@gmail.com
 
 ## 🌐 Socials:
